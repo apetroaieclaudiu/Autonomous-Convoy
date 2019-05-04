@@ -1,0 +1,3 @@
+/home/apetroaie/Desktop/openCVStarter/CMakeFiles/rebuild_cache.dir
+/home/apetroaie/Desktop/openCVStarter/CMakeFiles/DisplayImage.dir
+/home/apetroaie/Desktop/openCVStarter/CMakeFiles/edit_cache.dir
